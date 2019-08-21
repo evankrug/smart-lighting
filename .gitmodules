@@ -1,0 +1,12 @@
+[submodule "src/CM1060-Lighting/MorphConfigurations"]
+	path = src/CM1060-Lighting/MorphConfigurations
+	url = https://github.com/SpectrumBrands-HomeRD/MorphConfigurations.git
+[submodule "ElementLibrary"]
+	path = ElementLibrary
+	url = https://github.com/SpectrumBrands-HomeRD/ElementLibrary.git
+[submodule "MorphLibrary"]
+	path = MorphLibrary
+	url = https://github.com/SpectrumBrands-HomeRD/MorphLibrary.git
+[submodule "spikes/analog-rgb-spike/analog-rgb-spike/MorphConfigurations"]
+	path = spikes/analog-rgb-spike/analog-rgb-spike/MorphConfigurations
+	url = https://github.com/SpectrumBrands-HomeRD/MorphConfigurations.git
